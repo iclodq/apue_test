@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1469346496 source:/home/qin/stu/code/apue_test/main.cpp
+	<iostream>
+
+1469193793 source:/home/qin/stu/code/apue_test/file_io.cpp
+	<fcntl.h>
+	<unistd.h>
+	<iostream>
+	<stdio.h>
+
